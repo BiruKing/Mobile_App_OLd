@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\home.xml",
+        "source": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\history_profile.xml",
+        "source": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\src\\main\\res\\layout\\history_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\profile.xml",
+        "source": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\login.xml",
+        "source": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\validation.xml",
+        "source": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\src\\main\\res\\layout\\validation.xml"
+    },
+    {
+        "merged": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\history.xml",
+        "source": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\src\\main\\res\\layout\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\acident_report.xml",
+        "source": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\src\\main\\res\\layout\\acident_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\get_started.xml",
+        "source": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\src\\main\\res\\layout\\get_started.xml"
+    },
+    {
+        "merged": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\penality.xml",
+        "source": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\src\\main\\res\\layout\\penality.xml"
+    },
+    {
+        "merged": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\status.xml",
+        "source": "C:\\Users\\King\\AndroidStudioProjects\\DrivingLicenceValidation\\app\\src\\main\\res\\layout\\status.xml"
+    }
+]

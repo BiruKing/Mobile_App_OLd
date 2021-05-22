@@ -1,0 +1,42 @@
+com/ethiop/drivinglicencevalidation/Validation.java
+ com.ethiop.drivinglicencevalidation.Validation
+com/ethiop/drivinglicencevalidation/History.java
+ com.ethiop.drivinglicencevalidation.History
+com/ethiop/drivinglicencevalidation/databinding/HomeBinding.java
+ com.ethiop.drivinglicencevalidation.databinding.HomeBinding
+com/ethiop/drivinglicencevalidation/databinding/HistoryProfileBinding.java
+ com.ethiop.drivinglicencevalidation.databinding.HistoryProfileBinding
+com/ethiop/drivinglicencevalidation/HistoryProfile.java
+ com.ethiop.drivinglicencevalidation.HistoryProfile
+com/ethiop/drivinglicencevalidation/GetStarted.java
+ com.ethiop.drivinglicencevalidation.GetStarted
+com/ethiop/drivinglicencevalidation/Login.java
+ com.ethiop.drivinglicencevalidation.Login
+com/ethiop/drivinglicencevalidation/Penality.java
+ com.ethiop.drivinglicencevalidation.Penality
+com/ethiop/drivinglicencevalidation/databinding/ValidationBinding.java
+ com.ethiop.drivinglicencevalidation.databinding.ValidationBinding
+com/ethiop/drivinglicencevalidation/BuildConfig.java
+ com.ethiop.drivinglicencevalidation.BuildConfig
+com/ethiop/drivinglicencevalidation/databinding/StatusBinding.java
+ com.ethiop.drivinglicencevalidation.databinding.StatusBinding
+com/ethiop/drivinglicencevalidation/databinding/AcidentReportBinding.java
+ com.ethiop.drivinglicencevalidation.databinding.AcidentReportBinding
+com/ethiop/drivinglicencevalidation/databinding/GetStartedBinding.java
+ com.ethiop.drivinglicencevalidation.databinding.GetStartedBinding
+com/ethiop/drivinglicencevalidation/AcidentReport.java
+ com.ethiop.drivinglicencevalidation.AcidentReport
+com/ethiop/drivinglicencevalidation/databinding/HistoryBinding.java
+ com.ethiop.drivinglicencevalidation.databinding.HistoryBinding
+com/ethiop/drivinglicencevalidation/Status.java
+ com.ethiop.drivinglicencevalidation.Status
+com/ethiop/drivinglicencevalidation/databinding/LoginBinding.java
+ com.ethiop.drivinglicencevalidation.databinding.LoginBinding
+com/ethiop/drivinglicencevalidation/Home.java
+ com.ethiop.drivinglicencevalidation.Home
+com/ethiop/drivinglicencevalidation/Profile.java
+ com.ethiop.drivinglicencevalidation.Profile
+com/ethiop/drivinglicencevalidation/databinding/ProfileBinding.java
+ com.ethiop.drivinglicencevalidation.databinding.ProfileBinding
+com/ethiop/drivinglicencevalidation/databinding/PenalityBinding.java
+ com.ethiop.drivinglicencevalidation.databinding.PenalityBinding
